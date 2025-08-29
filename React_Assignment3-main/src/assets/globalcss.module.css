@@ -1,0 +1,34 @@
+.homCol {
+
+    min-height: 25rem;
+    /* Adjusting min height for homeCol */
+    background-color: #e2e2e2;
+    padding: 30px;
+    text-align: justify;
+}
+
+.homCol1 {
+    background-color: #e8f380;
+    /* Applying the desired background color */
+}
+
+.homCol2 {
+    background-color: rgb(100, 249, 199);
+    /* Applying the desired background color */
+}
+
+.homCol3 {
+    background-color: #e8f380;
+    /* Applying the desired background color */
+}
+
+.homCol4 {
+    background-color: rgb(100, 249, 199);
+    /* Applying the desired background color */
+}
+
+h2{
+    margin: 30px 20px;
+    text-underline-offset: 20px;
+    text-decoration: underline;
+}
